@@ -1,4 +1,7 @@
-# 📊 allWomen.tech-final-project-Critical Mineral Trade & Development in East Africa
+# 📊 allWomen.tech-final-project-
+# Critical Mineral Trade & Development in East Africa
+
+<img src="https://agmetalminer.com/wp-content/uploads/2023/10/AdobeStock_562501968.jpeg" width="600">
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Data](https://img.shields.io/badge/Focus-Data%20Analysis-purple)
