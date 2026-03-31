@@ -68,8 +68,6 @@ Understanding this gap is essential for designing better policies and more equit
 **Susanna Nebuloni**
 Tech Support Engineer → Data & Machine Learning
 
-I turn messy systems and messy data into something that actually makes sense.
-
 ---
 
 ## 🔥 Next Steps
