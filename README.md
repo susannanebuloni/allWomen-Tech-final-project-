@@ -1,5 +1,4 @@
-# allWomen-Tech-final-project-
-# 📊 Critical Mineral Trade & Development in East Africa
+# 📊 allWomen.tech-final-project-Critical Mineral Trade & Development in East Africa
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Data](https://img.shields.io/badge/Focus-Data%20Analysis-purple)
@@ -7,57 +6,40 @@
 
 ---
 
-## 🚀 Project Summary
+## 🚀 Overview
 
-This project investigates how **critical mineral extraction and trade** impact economic development in the East African Community (EAC), with a focus on the **Democratic Republic of Congo (DRC)**.
+This project analyzes the relationship between **critical mineral extraction, trade flows, and economic development** in the East African Community (EAC), with a focus on the **Democratic Republic of Congo (DRC)**.
 
-As global demand for minerals rises (EVs, renewables), the key question is:
+As global demand for minerals rises (driven by renewable energy and digital technologies), the project explores whether resource-rich countries benefit from this growth or remain structurally dependent on extraction.
 
-> Do resource-rich countries actually benefit — or are they stuck in low-value extraction?
+---
+
+## 🎯 Key Questions
+
+* Does mineral wealth translate into economic development?
+* Who captures value in global supply chains?
+* Does the **resource curse** still apply in the EAC region?
 
 ---
 
 ## 🧠 Key Insights
 
-* ⚡ **Extreme concentration**: DRC dominates regional extraction
-* 📉 **Resource curse persists**: high output ≠ development
-* 🌍 **External value capture**: processing happens outside Africa
-* ⛏️ **Environmental pressure** driven by bulk minerals
-
----
-
-## 📊 Key Visuals
-
-### Extraction Intensity Distribution
-
-![Extraction](images/extraction_by_country.png)
-
-### Outlier Analysis (Economic Shocks)
-
-![Outliers](images/outliers.png)
-
-### Most Demanding Minerals
-
-![Minerals](images/minerals.png)
+* ⚡ Extraction is highly concentrated, with the DRC dominating regional output
+* 📉 High resource availability does not necessarily lead to stronger development outcomes
+* 🌍 Value-added activities occur mostly outside the region
+* ⛏️ Bulk minerals drive the majority of environmental pressure
 
 ---
 
 ## 🧪 Methodology
 
-### Data Sources
+* Data cleaning and preprocessing of multi-source datasets (World Bank, trade data)
+* Transformation of datasets into analysis-ready formats
+* Handling missing values using **country-level median imputation**
+* Outlier detection using the **IQR method**
+* Exploratory Data Analysis (EDA) across time, countries, and commodities
 
-* World Bank
-* Trade (HS classification datasets)
-* EAC economic indicators
-
-### Workflow
-
-* Data cleaning (format inconsistencies, missing values)
-* Feature engineering (trade ratios, extraction intensity)
-* Outlier detection (IQR method)
-* Time-series & cross-country analysis
-
-👉 Missing values handled using **country-level median** to preserve economic structure 
+Based on the full analytical workflow and dataset preparation 
 
 ---
 
@@ -68,28 +50,13 @@ As global demand for minerals rises (EVs, renewables), the key question is:
 
 ---
 
-## 📂 Structure
+## 💡 Why This Matters
 
-```
-├── notebook.ipynb
-├── EAC_cleaned_data.csv
-├── images/
-├── README.md
-```
+This project highlights a key global challenge:
 
----
+> Being resource-rich does not guarantee sustainable economic development.
 
-## 💡 Why This Project Matters
-
-This analysis highlights a key global challenge:
-
-> Natural resources alone do not guarantee economic development.
-
-Understanding this gap is critical for:
-
-* Policy design
-* Sustainable growth
-* Global supply chain equity
+Understanding this gap is essential for designing better policies and more equitable global supply chains.
 
 ---
 
