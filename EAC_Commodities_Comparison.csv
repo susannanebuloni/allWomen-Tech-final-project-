@@ -1,0 +1,11 @@
+Commodity,Category,Primary_Flow,Value_USD_Billion,Lead_Country,Primary_Partner
+Refined Copper,Minerals,Export,12.1,DRC,China
+Gold,Precious Metals,Export,10.6,DRC,UAE
+Refined Petroleum,Energy,Import,11.9,Kenya,UAE
+Copper Ore,Minerals,Export,2.55,DRC,China
+Palm Oil,Agriculture,Import,1.93,Kenya,Malaysia
+Tea,Agriculture,Export,1.2,Kenya,Pakistan
+Coffee,Agriculture,Export,0.85,Uganda,European Union
+Wheat,Agriculture,Import,0.85,Tanzania,Russia
+Titanium Ores,Minerals,Export,0.22,Kenya,China
+Medicaments,Health,Import,0.61,Uganda,India
